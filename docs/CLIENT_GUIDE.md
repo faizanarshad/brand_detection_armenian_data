@@ -44,7 +44,7 @@ This project gives you **three practical capabilities**:
 Think of the project as **input → program → output**.
 
 ```text
-test_data_cleaning/                 ← Project root (open terminal here)
+brand_detection_armenian_data/      ← Project root (open terminal here)
 ├── data/
 │   └── brand_task.csv              ← YOUR DATA (product names, brands, categories, ADG codes)
 ├── artifacts/                      ← OUTPUTS (created or updated when you run commands)

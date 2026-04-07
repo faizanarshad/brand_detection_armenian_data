@@ -37,7 +37,7 @@ BiLSTM-based **text → ADG_CODE** classification for retail product data (Armen
 ## Setup
 
 ```bash
-cd /path/to/test_data_cleaning
+cd /path/to/brand_detection_armenian_data
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -U pip
